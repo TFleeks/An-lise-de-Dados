@@ -9,21 +9,21 @@
   - Podemos criar um plano familia para diminuir a taxa de cancelamento
 
 ## Estamos perdendo muitos clientes nos primeiros meses
-	- Tem alguma ação promocional que está trazendo muito cliente desqualificado
-	- Podemos pensar em dar bônus pro cliente nos primeiros meses
-	- A primeira experiência do cliente pode estar sendo muito ruim
+  - Tem alguma ação promocional que está trazendo muito cliente desqualificado
+  - Podemos pensar em dar bônus pro cliente nos primeiros meses
+  - A primeira experiência do cliente pode estar sendo muito ruim
 
 
 ## Estamos com um problema na fibra - taxa de cancelamento está muito alta
 
 ## Quanto mais serviços o cliente tem menor a chance de cancelamento
-	- Podemos criar uma promocao dando servico pro cliênte ou cobrando muito barato
+  - Podemos criar uma promocao dando servico pro cliênte ou cobrando muito barato
 
 ## Quase todo o cancelamento esta no contrato mensal
-	- Dar desconto no contrato anual
+  - Dar desconto no contrato anual
 
 ## Forma de pagamento evitar boleto eletronico
-	- Dar descontos nas outras opções
+  - Dar descontos nas outras opções
 
  # Tecnologias Utilizadas
 
