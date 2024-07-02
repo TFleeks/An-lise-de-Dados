@@ -1,4 +1,4 @@
-# Analise de Dados
+# Analise de Dados:
 
 ![Sem título](https://github.com/TFleeks/An-lise-de-Dados/assets/172528140/1a664386-d6c9-4c56-b0f9-7215708090ce)
 ![Sem título2](https://github.com/TFleeks/An-lise-de-Dados/assets/172528140/daa8f9e9-53de-4655-a698-82c4ea5e7923)
@@ -27,9 +27,9 @@
 
  # Tecnologias Utilizadas
 
- ## Python, pandas e plotly
+ ## Python, Pandas e Plotly
 
- ### Análise de Dados da aula da Hashtag Treinamentos do "intensivão de Python"
+ ### Análise de Dados da aula da Hashtag Treinamentos do intensivão de Python
 
 
 OBS: Esses Gráficos não são reais, são dados ficticios para treino/aula diretamente do site https://www.kaggle.com
