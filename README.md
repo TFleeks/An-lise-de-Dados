@@ -14,7 +14,8 @@
   - A primeira experiência do cliente pode estar sendo muito ruim
 
 
-## Estamos com um problema na fibra - taxa de cancelamento está muito alta
+## Estamos com um problema na fibra
+  - A taxa de cancelamento está muito alta
 
 ## Quanto mais serviços o cliente tem menor a chance de cancelamento
   - Podemos criar uma promocao dando servico pro cliênte ou cobrando muito barato
