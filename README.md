@@ -2,6 +2,7 @@
 
 ![Sem título](https://github.com/TFleeks/An-lise-de-Dados/assets/172528140/1a664386-d6c9-4c56-b0f9-7215708090ce)
 ![Sem título2](https://github.com/TFleeks/An-lise-de-Dados/assets/172528140/daa8f9e9-53de-4655-a698-82c4ea5e7923)
+   - As imagens acima são poucos exemplos pois não caberiam todas as prints.. são 20 gráficos
 
 # Conclusões e Ações
 
